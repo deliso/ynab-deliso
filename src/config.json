@@ -1,4 +1,4 @@
 {
   "clientId": "zXFuR_tdA60z4HuEaSHbnPa0JtYicBP3iYVXAFHef9o",
-  "redirectUri": "https://deliso.github.io/ynab-deliso/"
+  "redirectUri": "http://localhost:8080"
 }
